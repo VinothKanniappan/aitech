@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		044D80F41DE8090200EBCF86 /* background@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 044D80F31DE8090200EBCF86 /* background@2x.png */; };
+		044D80F61DE839A200EBCF86 /* friends.png in Resources */ = {isa = PBXBuildFile; fileRef = 044D80F51DE839A200EBCF86 /* friends.png */; };
+		044D80F81DE839B800EBCF86 /* globe.png in Resources */ = {isa = PBXBuildFile; fileRef = 044D80F71DE839B800EBCF86 /* globe.png */; };
 		4D12B44E1DE5FD8700ECD002 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D12B44D1DE5FD8700ECD002 /* AppDelegate.swift */; };
 		4D12B4501DE5FD8700ECD002 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D12B44F1DE5FD8700ECD002 /* ViewController.swift */; };
 		4D12B4531DE5FD8700ECD002 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D12B4511DE5FD8700ECD002 /* Main.storyboard */; };
@@ -36,6 +38,8 @@
 
 /* Begin PBXFileReference section */
 		044D80F31DE8090200EBCF86 /* background@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "background@2x.png"; sourceTree = "<group>"; };
+		044D80F51DE839A200EBCF86 /* friends.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = friends.png; sourceTree = "<group>"; };
+		044D80F71DE839B800EBCF86 /* globe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = globe.png; sourceTree = "<group>"; };
 		4D12B44A1DE5FD8700ECD002 /* VinoGithub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VinoGithub.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D12B44D1DE5FD8700ECD002 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4D12B44F1DE5FD8700ECD002 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -102,7 +106,9 @@
 				4D12B44D1DE5FD8700ECD002 /* AppDelegate.swift */,
 				4D12B44F1DE5FD8700ECD002 /* ViewController.swift */,
 				4D12B4511DE5FD8700ECD002 /* Main.storyboard */,
+				044D80F71DE839B800EBCF86 /* globe.png */,
 				044D80F31DE8090200EBCF86 /* background@2x.png */,
+				044D80F51DE839A200EBCF86 /* friends.png */,
 				4D12B4541DE5FD8700ECD002 /* Assets.xcassets */,
 				4D12B4561DE5FD8700ECD002 /* LaunchScreen.storyboard */,
 				4D12B4591DE5FD8700ECD002 /* Info.plist */,
@@ -237,6 +243,8 @@
 			files = (
 				4D12B4581DE5FD8700ECD002 /* LaunchScreen.storyboard in Resources */,
 				4D12B4551DE5FD8700ECD002 /* Assets.xcassets in Resources */,
+				044D80F61DE839A200EBCF86 /* friends.png in Resources */,
+				044D80F81DE839B800EBCF86 /* globe.png in Resources */,
 				044D80F41DE8090200EBCF86 /* background@2x.png in Resources */,
 				4D12B4531DE5FD8700ECD002 /* Main.storyboard in Resources */,
 			);
